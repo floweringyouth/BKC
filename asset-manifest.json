@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BKC/static/css/main.f1068359.chunk.css",
-    "main.js": "/BKC/static/js/main.63f8c0d8.chunk.js",
-    "main.js.map": "/BKC/static/js/main.63f8c0d8.chunk.js.map",
+    "main.js": "/BKC/static/js/main.ba1dfc85.chunk.js",
+    "main.js.map": "/BKC/static/js/main.ba1dfc85.chunk.js.map",
     "runtime-main.js": "/BKC/static/js/runtime-main.60ae9a82.js",
     "runtime-main.js.map": "/BKC/static/js/runtime-main.60ae9a82.js.map",
     "static/js/2.7ab4b832.chunk.js": "/BKC/static/js/2.7ab4b832.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/BKC/index.html",
     "static/css/main.f1068359.chunk.css.map": "/BKC/static/css/main.f1068359.chunk.css.map",
     "static/js/2.7ab4b832.chunk.js.LICENSE.txt": "/BKC/static/js/2.7ab4b832.chunk.js.LICENSE.txt",
-    "static/media/1.98f1a1f2.png": "/BKC/static/media/1.98f1a1f2.png",
+    "static/media/1.5158217d.png": "/BKC/static/media/1.5158217d.png",
     "static/media/reset.css": "/BKC/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.60ae9a82.js",
     "static/js/2.7ab4b832.chunk.js",
     "static/css/main.f1068359.chunk.css",
-    "static/js/main.63f8c0d8.chunk.js"
+    "static/js/main.ba1dfc85.chunk.js"
   ]
 }
